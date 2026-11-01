@@ -1,29 +1,35 @@
-# Cars Dealership
+# fullstack_developer_capstone
 
 ## Repository Name
-cars-dealership-capstone
+fullstack_developer_capstone
 
 ## Project Name
-Cars Dealership – Full-Stack Development Capstone Project
+fullstack_developer_capstone
 
 ## Project Description
-Cars Dealership is a full-stack web application developed for a national car dealership retailer in the United States.
+This project is a Full Stack Developer Capstone application for Best Cars Dealership.
 
-The application allows users to:
-- View dealership branches across different states.
-- Register and log in to their accounts.
-- Browse dealership information.
-- Submit and view dealership reviews.
-- Analyze customer reviews using sentiment analysis.
+The application provides:
+- Dealership information across different states.
+- User registration and authentication.
+- Dealer details and customer reviews.
+- Review submission functionality.
+- Sentiment analysis of customer reviews.
+- Responsive frontend and backend integration.
 
-## Technologies
-- Frontend: React.js, HTML, CSS, JavaScript
-- Backend: Django, Python
-- Database: SQLite / MongoDB
-- Deployment: Docker, Kubernetes, IBM Cloud Code Engine
-- CI/CD: GitHub Actions
+## Technologies Used
+- Python
+- Django
+- React
+- HTML, CSS, JavaScript
+- MongoDB
+- SQLite
+- Docker
+- Kubernetes
+- IBM Cloud Code Engine
+- GitHub Actions
 
-## Author
+## Developer
 Arpita Rathore
 
 GitHub: https://github.com/rathorearpita241
